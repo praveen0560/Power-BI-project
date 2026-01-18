@@ -1,4 +1,6 @@
 Student Performance Classification
+
+
 Project Overview
 This project utilizes Power BI to analyze and classify student performance data. It provides a comprehensive dashboard to visualize key metrics, identify trends in academic achievements, and categorize students based on their performance levels.
 
